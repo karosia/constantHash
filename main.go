@@ -36,6 +36,6 @@ func main() {
 		fmt.Printf("Key %q is assigned to node %q\n", key, node)
 	}
 
-	hashRing.GetRanges()
+	//hashRing.GetRanges()
 
 }
